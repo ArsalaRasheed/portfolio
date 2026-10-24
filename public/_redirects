@@ -1,0 +1,2 @@
+# Netlify SPA fallback — lets client-side routes like /work/classpilot load on refresh.
+/*  /index.html  200
